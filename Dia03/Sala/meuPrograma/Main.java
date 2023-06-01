@@ -1,6 +1,6 @@
 package Dia03.Sala.meuPrograma;
 
-import Dia03.Geometria.Retangulo;
+import Dia03.Sala.Geometria.Retangulo;
 
 // Definindo a classe Main
 public class Main {
