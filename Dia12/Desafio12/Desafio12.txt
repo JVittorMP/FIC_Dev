@@ -1,2 +1,0 @@
-Desafio Dia 12:
-Projeto de Conexão com Banco - Maven
